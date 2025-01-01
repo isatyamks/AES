@@ -48,85 +48,6 @@
 			"typeName": "page"
 		},
 		{
-			"id": "pointer:pointer",
-			"typeName": "pointer",
-			"x": -910.4811043996181,
-			"y": 1186.6337620833408,
-			"lastActivityTimestamp": 1735743526875,
-			"meta": {}
-		},
-		{
-			"followingUserId": null,
-			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:font": "serif",
-				"tldraw:size": "l",
-				"tldraw:fill": "none"
-			},
-			"brush": null,
-			"scribbles": [],
-			"cursor": {
-				"type": "default",
-				"rotation": 0
-			},
-			"isFocusMode": false,
-			"exportBackground": true,
-			"isDebugMode": false,
-			"isToolLocked": false,
-			"screenBounds": {
-				"x": 0,
-				"y": 0,
-				"w": 1189.5999755859375,
-				"h": 759.2000122070312
-			},
-			"insets": [
-				false,
-				false,
-				true,
-				false
-			],
-			"zoomBrush": null,
-			"isGridMode": false,
-			"isPenMode": false,
-			"chatMessage": "",
-			"isChatting": false,
-			"highlightedUserIds": [],
-			"isFocused": true,
-			"devicePixelRatio": 1.25,
-			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
-			"openMenus": [],
-			"isChangingStyle": false,
-			"isReadonly": false,
-			"meta": {},
-			"duplicateProps": null,
-			"id": "instance:instance",
-			"currentPageId": "page:page",
-			"typeName": "instance"
-		},
-		{
-			"editingShapeId": null,
-			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": null,
-			"erasingShapeIds": [],
-			"hintingShapeIds": [],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
-		},
-		{
-			"x": 1533.1973877114901,
-			"y": -22.219342978548266,
-			"z": 0.33819575904367644,
-			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
 			"x": 22.600000381469727,
 			"y": 64.20000457763672,
 			"rotation": 0,
@@ -1101,111 +1022,6 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -1141.4154516312278,
-			"y": -155.8252025438029,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:-jK1CwRGovfBrXwIFlxH6",
-			"type": "geo",
-			"props": {
-				"w": 825.077813736333,
-				"h": 521.4717466378521,
-				"geo": "rectangle",
-				"color": "black",
-				"labelColor": "black",
-				"fill": "none",
-				"dash": "draw",
-				"size": "l",
-				"font": "serif",
-				"text": "",
-				"align": "middle",
-				"verticalAlign": "middle",
-				"growY": 0,
-				"url": "",
-				"scale": 1
-			},
-			"parentId": "page:page",
-			"index": "aKAdG",
-			"typeName": "shape"
-		},
-		{
-			"x": -1005.6382179741821,
-			"y": -128.7856293822456,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:NLIO9Sfhr4Owbebuf8Ea9",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "l",
-				"w": 297.6875,
-				"text": "Pre Exam system",
-				"font": "serif",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1.0472701954692174
-			},
-			"parentId": "page:page",
-			"index": "aLBc3",
-			"typeName": "shape"
-		},
-		{
-			"x": -432.0804614269814,
-			"y": 103.70432233613667,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:PvodzhhGQ725-wnkmpNab",
-			"type": "arrow",
-			"props": {
-				"dash": "draw",
-				"size": "l",
-				"fill": "none",
-				"color": "black",
-				"labelColor": "black",
-				"bend": 0,
-				"start": {
-					"x": 0,
-					"y": 0
-				},
-				"end": {
-					"x": 284.40969513540904,
-					"y": 17.91919355327525
-				},
-				"arrowheadStart": "none",
-				"arrowheadEnd": "arrow",
-				"text": "",
-				"labelPosition": 0.5,
-				"font": "serif",
-				"scale": 1
-			},
-			"parentId": "page:page",
-			"index": "aKgwp",
-			"typeName": "shape"
-		},
-		{
-			"meta": {},
-			"id": "binding:jcltx_7bQWRRUC2ppkQqc",
-			"type": "arrow",
-			"fromId": "shape:PvodzhhGQ725-wnkmpNab",
-			"toId": "shape:-jK1CwRGovfBrXwIFlxH6",
-			"props": {
-				"isPrecise": false,
-				"isExact": false,
-				"normalizedAnchor": {
-					"x": 0.8597188997145012,
-					"y": 0.4976866465982782
-				},
-				"terminal": "start"
-			},
-			"typeName": "binding"
-		},
-		{
 			"x": -889.7089107290558,
 			"y": -8.405467145009652,
 			"rotation": 0,
@@ -1226,29 +1042,6 @@
 			},
 			"parentId": "page:page",
 			"index": "aM5ms",
-			"typeName": "shape"
-		},
-		{
-			"x": -1107.0364598128594,
-			"y": 58.728336719755816,
-			"rotation": 0,
-			"isLocked": false,
-			"opacity": 1,
-			"meta": {},
-			"id": "shape:gZjnTyZZzDneY0HfPNgtQ",
-			"type": "text",
-			"props": {
-				"color": "black",
-				"size": "l",
-				"w": 767.0125122070312,
-				"text": "How to build a sytem which will be \nsecured enough and avoids paper leakage\nwe can use blockchain for that but currently \nlets focus on during exam system",
-				"font": "serif",
-				"textAlign": "start",
-				"autoSize": true,
-				"scale": 1
-			},
-			"parentId": "page:page",
-			"index": "aN9rO",
 			"typeName": "shape"
 		},
 		{
@@ -1494,6 +1287,80 @@
 				"terminal": "end"
 			},
 			"typeName": "binding"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": -258.6574841902111,
+			"y": 121.51646435191572,
+			"lastActivityTimestamp": 1735746899434,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "default",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1189.5999755859375,
+				"h": 759.2000122070312
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 1155.1443407134352,
+			"y": 479.2403933979151,
+			"z": 0.4517634553736575,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
 		}
 	]
 }
