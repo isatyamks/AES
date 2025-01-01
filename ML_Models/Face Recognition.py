@@ -1,7 +1,8 @@
 import face_recognition
+import cv2
 
 # Load a known image (candidate photo)
-known_image = face_recognition.load_image_file("candidate_image.jpg")
+known_image = face_recognition.load_image_file("data\\3.jpg")
 known_face_encoding = face_recognition.face_encodings(known_image)[0]
 
 # Initialize webcam
