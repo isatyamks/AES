@@ -16,10 +16,6 @@ while cap.isOpened():
 
     if results.multi_face_landmarks:
         for face_landmarks in results.multi_face_landmarks:
-            # Check the eye landmarks for blinking detection logic
-            # You can check distances between eye landmarks here
-
-            # Example: Right Eye (landmarks 33, 133) and Left Eye (landmarks 263, 362)
             right_eye_distance = abs(face_landmarks.landmark[33].y - face_landmarks.landmark[133].y)
             left_eye_distance = abs(face_landmarks.landmark[263].y - face_landmarks.landmark[362].y)
 
